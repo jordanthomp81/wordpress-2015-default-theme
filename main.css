@@ -215,7 +215,7 @@ p {
 #posttag > h1 {
 	color: white;
 	font-size: 16px;
-	margin-left: 11px;
+	margin-left: 8px;
 	margin-top: 4px;
 	font-weight: bold;
 
@@ -231,14 +231,14 @@ h1:hover {
 }
 
 #post1_wrapper > h1 {
-	width: 50%;
+	width: 60%;
 	font-size: 39px;
 	margin-top: 60px;
 	margin-left: 69px;
 }
 
 #post1_wrapper > p {
-  width: 75%;
+    width: 80%;
 	padding-right: 69px;
 	font-size: 19px;
 	margin-top: 50px;
